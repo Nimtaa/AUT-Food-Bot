@@ -1,0 +1,6 @@
+List of issues :
+
+1:
+problem with deleting giving launch user. 
+2:
+not to permit a user to give food one more time . 
